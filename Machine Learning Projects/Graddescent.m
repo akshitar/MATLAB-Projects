@@ -1,5 +1,5 @@
 %Implement a steepest descent algorithm	running the script for several different step sizes. 
-%Draw the path and report number of iteration for each case .	You	are	given	a	skeleton	
+%Draw the path and report number of iteration for each case.
 
 clear all; clc
 %Standardizing the features
